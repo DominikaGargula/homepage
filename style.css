@@ -1,0 +1,30 @@
+body{
+    background-color:#fefefe;
+}
+
+h2{
+    color: #1460AA;
+} 
+p{
+    color: #363636;
+}
+.header{
+    color: #CCA43B;
+}
+.link{
+    color: #E88D67;
+}
+
+#top {
+   background: rgb(27, 94, 121);
+}
+
+.header-link{
+    color: #9999C3;
+}
+.header-h2{
+    color: #73937E;
+}
+.header-h1{
+    color: #5B2E48;
+}
